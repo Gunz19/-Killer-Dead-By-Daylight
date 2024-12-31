@@ -1,4 +1,4 @@
-<title>แนะนำฆาตกร Dead by Daylight<title/>
-  <p>ตัวละครเล่นยากแต่ถ้าชำนาญแล้วโอกาศชนะสูง</p>
+<title>แนะนำฆาตกร Dead by Daylight</title>
+<h3ตัวละครเล่นยากแต่ถ้าชำนาญแล้วโอกาศชนะสูง</h3>
 <h3>By Jirawat Sukkaravetsiri</h3>
 <h2>Thank You for Viewing</h2>
